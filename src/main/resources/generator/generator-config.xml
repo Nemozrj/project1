@@ -52,6 +52,7 @@
                              targetProject="src/main/java">
         </javaClientGenerator>
 
-        <table tableName="demo" domainObjectName="Demo"/>
+<!--        <table tableName="demo" domainObjectName="Demo"/>-->
+        <table tableName="ebook"/>
     </context>
 </generatorConfiguration>
